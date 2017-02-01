@@ -1,8 +1,6 @@
-# css
-CSS Class
 # CSS Cascading Style Sheets
 
-##CSS  affects html Elements
+## CSS affects html Elements
 
 ```
 Selector
@@ -28,19 +26,26 @@ Selector
 The CSS selector ```p``` will affect paragraphs in HTML.
 
 
-##CSS Terms
+## CSS Terms
 
 ### Internal
+```
+<style>
+</style>
+```
 * style
 
 ### External
+```
+<link rel="stylesheet" type="text/css" href="site/templates/css/app.css"/>
+```
 
 * link 
-	* ref
-	* type
 	* rel
+	* type
+	* href
 
-###Selectors
+### Selectors
 * universal
 * type
 * class
@@ -58,7 +63,7 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 ### Inheritance
 * inherit
 
-###Browser Quirks
+### Browser Quirks
 
 ### comments
 * ```/* This is a css comment */```
