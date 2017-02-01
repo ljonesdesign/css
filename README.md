@@ -37,7 +37,7 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 
 ### External
 ```
-<link rel="stylesheet" type="text/css" href="site/templates/css/app.css"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
 ```
 
 * link 
