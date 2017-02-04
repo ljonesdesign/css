@@ -80,7 +80,7 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 * opacity, rgba
 * hsl, hsla
 
-[Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+## [Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
 ### Text
 * serif
