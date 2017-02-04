@@ -10,7 +10,7 @@ Selector
 	    |_________________|
 	             |
 	       declaration
-	       
+             	       
 	    font-family: Arial;
 	    |___________|_____|
 	          |        |  
@@ -37,8 +37,14 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 
 ### External
 ```
-<link rel="stylesheet" type="text/css" href="style.css"/>
+<link href="style.css" rel="stylesheet" type="text/css">
 ```
+
+[Alternative Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets):
+```
+<link href="style.css" rel="alternate stylesheet" type="text/css">
+```
+
 
 * link 
 	* rel
