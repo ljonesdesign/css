@@ -86,9 +86,10 @@ CSS syntax for Red, Green and Blue
 rgb(#,#,#)
 ```
 
-## Color Websites
+## Websites we will look at in class for investigating color:
 * [147 Named CSS colors](http://www.colors.commutercreative.com/)
 * [Free online SVG editor](http://editor.method.ac/) *Works best with Chrome Browser*
+* [Hexidecimal Color Picker](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)
 
 ## [Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
