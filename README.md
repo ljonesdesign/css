@@ -75,8 +75,9 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 * ```/* This is a css comment */```
 
 ### Color
-* color
-* background-color
+
+* color: The color property is applied to text inside an element. 
+* background-color: html elements are treated as if they are in boxes. By default these are white. This property affects the background color of the box.
 * opacity, rgba
 * hsl, hsla
 
