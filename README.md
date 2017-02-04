@@ -81,6 +81,15 @@ The CSS selector ```p``` will affect paragraphs in HTML.
 * opacity, rgba
 * hsl, hsla
 
+CSS syntax for Red, Green and Blue
+```
+rgb(#,#,#)
+```
+
+## Color Websites
+[147 Named CSS colors](http://www.colors.commutercreative.com/)
+[Free online SVG editor](http://editor.method.ac/) *Works best with Chrome Browser*
+
 ## [Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
 ### Text
